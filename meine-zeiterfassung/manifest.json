@@ -1,0 +1,12 @@
+
+{
+  "name": "Meine Zeiterfassung",
+  "short_name": "Zeiterfassung",
+  "description": "Persönliche Zeiterfassung für Projekte",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f6f4",
+  "theme_color": "#176b52",
+  "lang": "de-CH"
+}
